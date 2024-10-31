@@ -1,0 +1,1269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: send-prebuilt-emails 1.0.0\n"
+"POT-Creation-Date: 2021-08-09 07:35+0200\n"
+"PO-Revision-Date: 2021-04-08 20:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: https://thinleek-plugins.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-send-prebuilt-emails-admin.php:56
+#: admin/class-send-prebuilt-emails-admin.php:472
+#: admin/send-prebuilt-emails-admin-option-page.php:1256
+#: user/class-send-prebuilt-emails-user.php:236
+#: user/send-prebuilt-emails-admin-option-page-user.php:859
+msgid "close"
+msgstr ""
+
+#. Description of the plugin
+msgid "With Send Prebuilt E-Mails you can create additional E-Mail templates (text and content not design) in woocommerce. Don't waste time in typing the same E-Mails again and again. Use placeholder to create dynamic templates and send your E-Mails via click."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:57
+msgid "close preview"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:58
+#: admin/class-send-prebuilt-emails-admin.php:359
+#: user/class-send-prebuilt-emails-user.php:127
+#: user/send-prebuilt-emails-admin-option-page-user.php:163
+msgid "preview"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:59
+#: admin/send-prebuilt-emails-admin-option-page.php:282
+#: settings/class-send-prebuilt-emails-settings.php:213
+#: user/send-prebuilt-emails-admin-option-page-user.php:278
+msgid "Subject"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:60
+#: admin/send-prebuilt-emails-admin-option-page.php:293
+#: user/send-prebuilt-emails-admin-option-page-user.php:289
+msgid "Heading"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:61
+msgid "Content"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:62
+#: admin/send-prebuilt-emails-admin-option-page.php:345
+msgid "show orderdetails in E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:63
+msgid "show customer addresses in E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:64
+#: admin/send-prebuilt-emails-admin-option-page.php:380
+msgid "Additional content"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:65
+msgid "show woocommerce footer in E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:66
+msgid "Attachment"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:67
+#: admin/send-prebuilt-emails-admin-option-page.php:154
+#: user/send-prebuilt-emails-admin-option-page-user.php:153
+msgid "E-Mail \"from\" and \"to\" settings (optional)"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:68
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:69
+#: admin/send-prebuilt-emails-admin-option-page.php:198
+#: user/send-prebuilt-emails-admin-option-page-user.php:196
+msgid "\"From\" E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:70
+#: admin/send-prebuilt-emails-admin-option-page.php:199
+#: user/send-prebuilt-emails-admin-option-page-user.php:197
+msgid "\"To\" E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:71
+msgid "\"Reply to\" Name"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:72
+#: admin/send-prebuilt-emails-admin-option-page.php:201
+#: user/send-prebuilt-emails-admin-option-page-user.php:199
+msgid "\"Reply to\" E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:73
+msgid "Blank E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:74
+#: admin/send-prebuilt-emails-admin-option-page.php:252
+#: user/send-prebuilt-emails-admin-option-page-user.php:248
+msgid "Placeholder"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:75
+msgid "Placeholder copied."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:76
+msgid "all placeholder"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:77
+msgid "sending..."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:78
+#: admin/class-send-prebuilt-emails-admin.php:468
+#: admin/send-prebuilt-emails-admin-option-page.php:1251
+#: user/class-send-prebuilt-emails-user.php:232
+#: user/send-prebuilt-emails-admin-option-page-user.php:854
+msgid "loading..."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:79
+#: admin/send-prebuilt-emails-admin-option-page.php:1247
+msgid "E-Mail preview for order"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:80
+#: user/send-prebuilt-emails-admin-option-page-user.php:849
+msgid "E-Mail preview for user"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:81
+#: admin/class-send-prebuilt-emails-admin.php:473
+#: user/class-send-prebuilt-emails-user.php:237
+msgid "send E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:82
+msgid "send ordercount E-Mails"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:83
+msgid "send ordercount E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:84
+msgid "Are you sure you want to delete the template \"changetemplatename\"?"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:85
+msgid "deleting..."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:86
+#: settings/class-send-prebuilt-emails-settings.php:339
+msgid "delete"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:87
+msgid "Send ordercount E-Mail?"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:88
+msgid "Send ordercount E-Mails?"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:89
+#: admin/class-send-prebuilt-emails-admin.php:361
+#: user/class-send-prebuilt-emails-user.php:130
+msgid "send"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:90
+msgid "cancel"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:91
+msgid "Max. 10 E-Mails allowed in free version!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:92
+msgid "Please Upgrade Send Prebuilt E-Mails to send unlimited E-Mails."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:105
+msgid "last Prebuilt E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:173
+#: admin/class-send-prebuilt-emails-admin.php:174
+msgid "Prebuilt E-Mails"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:183
+#: admin/class-send-prebuilt-emails-admin.php:184
+msgid "Order E-Mails"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:214
+#: admin/class-send-prebuilt-emails-admin.php:215
+msgid "Settings"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:245
+#: admin/class-send-prebuilt-emails-admin.php:246
+msgid "Help"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:277
+#: admin/class-send-prebuilt-emails-admin.php:621
+#: user/class-send-prebuilt-emails-user.php:380
+msgid "send Prebuilt E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:313
+msgid "choose E-Mail …"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:343
+#: admin/class-send-prebuilt-emails-admin.php:363
+msgid "write E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:390
+#: admin/send-prebuilt-emails-admin-option-page.php:1315
+#: user/class-send-prebuilt-emails-user.php:164
+#: user/send-prebuilt-emails-admin-option-page-user.php:922
+msgid "sending"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:465
+#: admin/send-prebuilt-emails-admin-option-page.php:659
+#: user/send-prebuilt-emails-admin-option-page-user.php:452
+msgid "E-Mail preview"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:668
+msgid "missing template name"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:683
+msgid "missing subject"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-admin.php:728
+msgid "missing content"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:256
+msgid "Sorry, to less arguments passed to the preview action. Please reload the page and try again."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:293
+msgid ""
+"A WordPress security key for your session has expired. Please reload the page and it \n"
+"\t\t\twill work."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:341
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:362
+msgid "No data found for selected ID."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:431
+msgid "no valid E-Mail found"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:530
+msgid "preview for User ID #"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:531
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:540
+msgid " (1 of "
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:532
+msgid " choosen Users"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:539
+msgid "preview for #"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:541
+msgid " choosen Orders"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:562
+msgid "From:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:570
+msgid "To:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:579
+msgid "Reply to:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:588
+msgid "Cc:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:597
+msgid "Bcc:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:613
+msgid "Subject:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:671
+msgid "Attachment:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:726
+msgid "no content found for order"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1131
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1153
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1176
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1220
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1239
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1261
+msgid "No E-Mail sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1132
+msgid ""
+"A WordPress security key for your session has expired. Please reload the page  \n"
+"\t\t\t\t\t\t\t\tand try it again."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1154
+msgid "Error, missing information to send E-Mails. Please refresh page and try again."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1177
+msgid "Error, trying to send not existing template."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1221
+msgid "No selected order found."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1240
+msgid "Max. 10 E-Mails allowed in free version! Please Upgrade Send Prebuilt E-Mails to send unlimited E-Mails."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1262
+msgid "Error, no content found for blank E-Mail."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1321
+msgid "no shop order found"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1367
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1755
+msgid "no valid recipient"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1428
+msgid "Blank"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1451
+msgid "No test E-Mail sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1452
+msgid "test E-Mail address not valid."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1565
+msgid "no recipient"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1573
+msgid "no subject"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1586
+msgid "Test E-Mail sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1587
+msgid "Test E-Mail sent successfully."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1588
+msgid "check inbox"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1645
+msgid "Status changed via Plugin Send Prebuilt E-Mails"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1681
+msgid "reloading page..."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1723
+msgid "Mail blocked via before_mail_send filter"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1729
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1819
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1827
+msgid "Prebuilt E-Mail"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1731
+msgid "sent."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1766
+msgid "Test E-Mail not sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1767
+msgid "E-Mail not sent:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1784
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1792
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1809
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1817
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1825
+msgid "of"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1785
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1793
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1810
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1816
+msgid "E-Mails sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1786
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1794
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1802
+msgid "E-Mails not sent:"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1787
+msgid "no valid recipient found."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1800
+msgid "E-Mail not sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1811
+msgid "E-Mails not sent: "
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1818
+msgid "E-Mails sent successfully."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1824
+msgid "E-Mail sent!"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1826
+msgid "E-Mail sent successfully."
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1872
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr ""
+
+#: admin/class-send-prebuilt-emails-mailsend-actions.php:1878
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:71
+msgid "Prebuilt E-Mails settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:90
+msgid "general settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:113
+msgid "User functionality"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:116
+msgid "use Prebuilt E-Mails for Users functionality"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:118
+msgid ""
+"Functionality: send pre-built E-Mails from user edit page and user bulk actions. \n"
+"\t\t\t\tIf checkbox is not selected the functionality including the \"Send Prebuilt E-Mails User Tab\" of this \n"
+"\t\t\t\tplugin will disappear."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:142
+msgid "Order notes"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:145
+msgid "add note to \"order notes\""
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:147
+msgid ""
+"The order notes are only visible for you. If the checkbox is selected there will be a order note \n"
+"\t\t\t\tcreated on sending E-Mails. You can see the note at order edit page."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:160
+msgid "Test E-Mail settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:171
+msgid ""
+"Define E-Mail address for test E-Mails. You can also change the test E-Mail address before sending a \n"
+"\t\t\ttest E-Mail. Default: Your woocommerce from address."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:202
+msgid "Test E-Mail address"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:207
+msgid "default:"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:229
+msgid "save settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-general-settings.php:235
+#: admin/send-prebuilt-emails-admin-option-page.php:650
+#: admin/send-prebuilt-emails-admin-option-page.php:1139
+#: user/send-prebuilt-emails-admin-option-page-user.php:443
+#: user/send-prebuilt-emails-admin-option-page-user.php:741
+msgid "saved"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:16
+msgid "Prebuilt E-Mails Help"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:30
+msgid "How to use Prebuilt E-Mails"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:41
+msgid "Set Up Prebuilt E-Mail Templates"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:50
+msgid "Go to Order Edit Page and Send your E-Mail from the \"Send Prebuilt E-Mail\" Metabox"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:59
+msgid "Send Prebuilt E-Mails to multiple receipients via Order Bulk Actions"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:68
+msgid ""
+"if you activate \"Prebuilt User E-Mails\" you can set up user templates and send them from \n"
+"\t\t\t\t\tuser edit page and user bulk actions."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:78
+msgid "check out the full"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:80
+msgid "introduction"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:92
+msgid "Example use cases"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:103
+msgid "Shipment anouncement"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:105
+msgid ""
+"Example: It is friday and you want to inform all customers with pending orders that you will \n"
+"\t\t\t\t\t\t\tship the order on monday."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:109
+msgid ""
+"No Problem: Filter pending Woocommerce orders and send your prebuilt e-mail template \"shipping on monday\" \n"
+"\t\t\t\t\tvia order bulk actions."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:121
+msgid "Leave a review"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:123
+msgid ""
+"Example: you want to get reviews and you know you highperformer product is rated \n"
+"\t\t\t\t\t\t\tgreat by clients who bought it."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:127
+msgid ""
+"No Problem: Search Woocommerce Orders and get all where your highperformer product \n"
+"\t\t\t\t\t\t\tis bought and send a leave a prebuilt leave a review e-mail via order bulk actions."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:139
+msgid "Payment reminder"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:141
+msgid "Example: A customer forgot to pay."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:144
+msgid ""
+"No Problem: open the order and use the \"Send Prebuilt E-Mails\" Metabox and select \n"
+"\t\t\t\t\t\t\tyour template \"payment reminder\" and click \"send\"."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:156
+msgid "Product out of stock"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:158
+msgid ""
+"Example: 20 customers are waiting for the product xyz they already ordered, but it \n"
+"\t\t\t\t\t\t\tis out of stock and you have to wait till you got new ones."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:162
+msgid ""
+"No Problem: Use \"Plain E-Mails\" Addon and go to Woocommerce orders. Serach pending \n"
+"\t\t\t\t\t\t\torder with product xyz. Use Bulk Action \"Write Plain E-Mail\" and write an individal text to \n"
+"\t\t\t\t\t\t\tthe customers. Use placeholders, say sorry, and save time to get product xyz asap."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:175
+msgid "User Role updated"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:177
+msgid ""
+"Example: You have different prices by user role. You want to inform user after user role \n"
+"\t\t\t\t\t\t\tchanged."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:181
+msgid "No Problem: Change User role and send prebuilt e-mail directly form user edit page."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:192
+msgid "check out more"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:194
+msgid "use cases"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:205
+msgid "Support"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:217
+msgid "FAQ Page"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:231
+msgid "Documentation"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:246
+msgid "Premium Version"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:265
+msgid "Hooks and Filters"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:277
+msgid "Support / Contact"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:289
+msgid "Do you like Send Prebuilt E-Mails?"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:302
+msgid "Rate Send Prebuilt E-Mails"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:305
+#: admin/send-prebuilt-emails-admin-help.php:319
+msgid "Thanks for helping thinleek plugins"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-help.php:316
+msgid "Donate via paypal"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:20
+msgid "Prebuilt E-Mails for Orders"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:26
+#: admin/send-prebuilt-emails-admin-option-page.php:48
+msgid "Templates"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:30
+msgid "edit Templates"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:35
+msgid "Advanced"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:77
+#: user/send-prebuilt-emails-admin-option-page-user.php:76
+msgid "edit E-Mail template"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:87
+#: user/send-prebuilt-emails-admin-option-page-user.php:86
+msgid "Choose template"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:125
+#: user/send-prebuilt-emails-admin-option-page-user.php:124
+msgid "Template name"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:127
+#: user/send-prebuilt-emails-admin-option-page-user.php:126
+msgid "only visible for you"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:164
+#: settings/class-send-prebuilt-emails-settings.php:211
+msgid "Preview"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:166
+#: user/send-prebuilt-emails-admin-option-page-user.php:165
+msgid "shows preview with saved settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:183
+#: user/send-prebuilt-emails-admin-option-page-user.php:182
+msgid ""
+"If you do not change anything, \n"
+"\t\t\t\tall E-Mails will be send with WooCommerce default settings (Woocommerce - Settings - E-Mails). \n"
+"\t\t\t\tAll settings of this part are optional."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:186
+msgid "One E-Mail address per field allowed."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:197
+#: user/send-prebuilt-emails-admin-option-page-user.php:195
+msgid "\"From\" name"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:200
+#: user/send-prebuilt-emails-admin-option-page-user.php:198
+msgid "\"Reply to\" name"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:202
+#: user/send-prebuilt-emails-admin-option-page-user.php:200
+msgid "Cc"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:203
+#: user/send-prebuilt-emails-admin-option-page-user.php:201
+msgid "Bcc"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:242
+#: admin/send-prebuilt-emails-admin-option-page.php:303
+msgid "E-Mail Content"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:254
+#: user/send-prebuilt-emails-admin-option-page-user.php:250
+msgid "You can use all placeholders in all parts instead of the template name."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:271
+#: user/send-prebuilt-emails-admin-option-page-user.php:267
+msgid "placeholder copied."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:342
+msgid "Order Details"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:367
+msgid "Invoice/Shipping address"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:371
+msgid "show addresses in E-Mail"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:417
+#: user/send-prebuilt-emails-admin-option-page-user.php:339
+msgid "Footer"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:421
+msgid "show woocommerce footer in E-Mails"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:458
+#: user/send-prebuilt-emails-admin-option-page-user.php:377
+msgid "Attachments"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:460
+#: user/send-prebuilt-emails-admin-option-page-user.php:379
+msgid "placeholder in filepath allowed"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:509
+msgid "Order status options (optional)"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:518
+msgid "Order staus Change after E-Mail sent"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:521
+msgid ""
+"You have the possibility to change the order status after sending this pre-built E-Mail. \n"
+"\t\t\tCheck the checkbox \"disable standard woocommerce E-Mail after sending this pre-built E-Mail\" if you do not \n"
+"\t\t\twant woocommerce to send the standard E-Mail after changing the status."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:557
+msgid "no order status change"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:582
+#: settings/class-send-prebuilt-emails-settings.php:217
+msgid "New Order Status"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:601
+msgid "Disable Woocommerce Standard E-Mail on status change"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:603
+msgid "only possible if \"new order status\" is selected"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:638
+#: user/send-prebuilt-emails-admin-option-page-user.php:431
+msgid "No Name given in selected template. Without name the template will not be saved."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:644
+#: user/send-prebuilt-emails-admin-option-page-user.php:437
+msgid "save changes"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:662
+#: user/send-prebuilt-emails-admin-option-page-user.php:455
+msgid "shows preview with saved settings."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:683
+#: user/send-prebuilt-emails-admin-option-page-user.php:34
+#: user/send-prebuilt-emails-admin-option-page-user.php:476
+msgid "advanced settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:687
+#: user/send-prebuilt-emails-admin-option-page-user.php:480
+msgid ""
+"Make further settings to tailor Prebuilt E-Mails even further to your needs. \n"
+"\t\t\t\tYou can find tips and tricks in the "
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:690
+#: user/send-prebuilt-emails-admin-option-page-user.php:483
+msgid "documentation"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:727
+msgid "Manage placeholder"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:740
+#: user/send-prebuilt-emails-admin-option-page-user.php:533
+msgid ""
+"You can use all placeholders in every templated even if you do not select them. The selected \n"
+"\t\t\tplaceholders will be shown in \"edit template\" part so it is easier to copy them."
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:765
+#: user/send-prebuilt-emails-admin-option-page-user.php:555
+msgid "Placeholder Fallback"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:770
+#: user/send-prebuilt-emails-admin-option-page-user.php:560
+msgid "default: empty (example: \"Text {order-date_completed}\" will be \"Text \""
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:778
+msgid "Order Data"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:828
+msgid "Billing Address"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:878
+msgid "Shipping Address"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:924
+#: user/send-prebuilt-emails-admin-option-page-user.php:568
+msgid "User Data"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:967
+#: user/send-prebuilt-emails-admin-option-page-user.php:609
+msgid "Time Data"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1017
+msgid "Order Meta Data"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1019
+#: admin/send-prebuilt-emails-admin-option-page.php:1055
+#: user/send-prebuilt-emails-admin-option-page-user.php:660
+msgid "Example:"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1023
+#: admin/send-prebuilt-emails-admin-option-page.php:1058
+#: admin/send-prebuilt-emails-admin-option-page.php:1092
+#: user/send-prebuilt-emails-admin-option-page-user.php:662
+#: user/send-prebuilt-emails-admin-option-page-user.php:695
+msgid "detailed explanation"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1053
+#: user/send-prebuilt-emails-admin-option-page-user.php:658
+msgid "ACF Placeholder"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1089
+#: user/send-prebuilt-emails-admin-option-page-user.php:692
+msgid "Custom Placeholder"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1091
+#: user/send-prebuilt-emails-admin-option-page-user.php:694
+msgid "see code examples to integrate in the child themes functions.php"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1133
+#: user/send-prebuilt-emails-admin-option-page-user.php:735
+msgid "save advanced settings"
+msgstr ""
+
+#: admin/send-prebuilt-emails-admin-option-page.php:1254
+#: user/send-prebuilt-emails-admin-option-page-user.php:857
+msgid "send test E-Mail"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:211
+msgid "Example Leave Review"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:212
+msgid "Did you enjoy "
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:214
+msgid "Please leave a review"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:215
+msgid ""
+"Hi {billing-first_name} {billing-last_name},\n"
+"\n"
+"Positive reviews from awesome customers like you help others to feel confident about choosing "
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:218
+msgid ""
+"too. Could you take 60 seconds to go to [link to review platform] and share your happy experiences?\n"
+"\t\t\t\n"
+"We will be forever grateful."
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:230
+msgid "Thank you in advance for helping us out!"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:265
+msgid "Example Reseller Approved"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:266
+msgid "You are now reseller"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:267
+msgid "at"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:268
+msgid "Start reselling!"
+msgstr ""
+
+#: includes/class-send-prebuilt-emails-activator.php:269
+msgid ""
+"Hi {user-first_name},\n"
+"\n"
+"we are glad to say that you are approved as reseller. See all information <a href=\"\">here</a>.\n"
+"\n"
+"Best regards"
+msgstr ""
+
+#: plain/class-send-prebuilt-emails-plain.php:111
+msgid "hide placeholders"
+msgstr ""
+
+#: plain/class-send-prebuilt-emails-plain.php:134
+msgid "write \"blank\" Prebuilt E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:133
+msgid "From"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:142
+#: settings/class-send-prebuilt-emails-settings.php:145
+#: settings/class-send-prebuilt-emails-settings.php:149
+msgid "to"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:167
+msgid "reply to"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:176
+msgid "cc"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:185
+msgid "bcc"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:212
+msgid "Template Name"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:335
+msgid "edit"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:363
+msgid "No E-Mail templates created."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:376
+#: settings/class-send-prebuilt-emails-settings.php:382
+msgid "create template"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:386
+msgid " of "
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:387
+msgid " templates created."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:413
+msgid "Bulk Settings"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:424
+msgid ""
+"You can use all selected templates via order bulk action. So it is easy to send you pre-built E-Mails to \n"
+"\t\t\tmultiple recipients."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:433
+msgid "Order Bulk Actions"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:500
+#: settings/class-send-prebuilt-emails-settings.php:511
+msgid "Template \""
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:501
+msgid "\" to Bulk Action"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:511
+msgid "\" to Bulk Actions"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:546
+msgid "\"Blank\" E-Mails to Bulk Actions"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:560
+msgid "Your created templates will be listet here."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:596
+msgid "default: user E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:599
+msgid "default: customer billing E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:602
+msgid "default: subject of this template"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:616
+msgid "Information"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:657
+#: settings/class-send-prebuilt-emails-settings.php:660
+msgid "choose E-Mail Template"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:698
+msgid "new template"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:777
+#: settings/class-send-prebuilt-emails-settings.php:868
+#: settings/class-send-prebuilt-emails-settings.php:910
+msgid "No \"new order status\" selected."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:779
+#: settings/class-send-prebuilt-emails-settings.php:912
+msgid ""
+"If you select a new order status Send Prebuilt E-Mails will check if it is possible to disable the woocommerce \n"
+"\t\t\tstandard E-Mail for this status."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:819
+#: settings/class-send-prebuilt-emails-settings.php:946
+msgid "disable woocommerce"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:820
+#: settings/class-send-prebuilt-emails-settings.php:947
+msgid "E-Mail after sending this pre-built E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:822
+#: settings/class-send-prebuilt-emails-settings.php:949
+msgid "The standard woocommerce E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:823
+#: settings/class-send-prebuilt-emails-settings.php:950
+msgid ""
+"is disabled if the order status will be changed while sending this pre-built E-Mail. \n"
+"\t\t\t\tIf the order status is changed otherwise the standard woocommerce E-Mail will be send."
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:844
+#: settings/class-send-prebuilt-emails-settings.php:971
+msgid "not possible to disable woocommerce standard E-Mail for selected status"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:846
+#: settings/class-send-prebuilt-emails-settings.php:973
+msgid ""
+"Two possible reasons:<br>1. there is no woocommerce standard E-Mail for the selected new order status<br>\n"
+"\t\t\t\t2. no support from Send Prebuilt E-Mails for the selected order status E-Mail"
+msgstr ""
+
+#: settings/class-send-prebuilt-emails-settings.php:870
+msgid ""
+"If you select a new order status Send Prebuilt E-Mails will check if it is possible to disable the woocommerce \n"
+"\t\t\t\tstandard E-Mail for this status."
+msgstr ""
+
+#: user/class-send-prebuilt-emails-user.php:35
+#: user/class-send-prebuilt-emails-user.php:36
+msgid "User E-Mails"
+msgstr ""
+
+#: user/class-send-prebuilt-emails-user.php:66
+msgid "send Prebuilt E-Mails"
+msgstr ""
+
+#: user/class-send-prebuilt-emails-user.php:74
+msgid "choose mail template …"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:19
+msgid "Prebuilt E-Mails for Users"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:25
+msgid "templates"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:29
+msgid "edit templates"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:47
+msgid "pre-built E-Mails"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:238
+#: user/send-prebuilt-emails-admin-option-page-user.php:299
+msgid "E-Mail content"
+msgstr ""
+
+#: user/send-prebuilt-emails-admin-option-page-user.php:343
+msgid "Show Woocommerce E-Mail Footer in E-Mails"
+msgstr ""
